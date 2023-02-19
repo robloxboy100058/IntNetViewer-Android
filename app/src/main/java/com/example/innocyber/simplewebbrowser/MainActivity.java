@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity {
         homeButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                webView.loadUrl("https://robloxboy1000.ddns.net/searchthenet");
+                webView.loadUrl("https://google.com");
             }
         });
     }
